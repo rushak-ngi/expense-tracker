@@ -1,0 +1,11 @@
+# Ignore expenses storage file
+expenses.csv
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configs
+.vscode/
+.idea/
+*.log
